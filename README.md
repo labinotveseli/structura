@@ -15,8 +15,8 @@ Structura is a single-page HTML5 website. This website is appropriate for websit
 <p align="center">
 <b>Landing Page with various sections like About, Services, Projects, Testimonials and more:</b>
 <hr>
-<img src="https://www.linkpicture.com/q/str1.jpg" height="80%" width="80%" alt="Home"/>
-<img src="https://www.linkpicture.com/q/str2.jpg" height="80%" width="80%" alt="Home"/>
+<img src="https://www.linkpicture.com/q/str1.jpg" height="100%" width="100%" alt="Home"/>
+<img src="https://www.linkpicture.com/q/str2.jpg" height="100%" width="100%" alt="Home"/>
 <img src="https://www.linkpicture.com/q/str3.jpg" height="80%" width="80%" alt="Home"/>
 <img src="https://www.linkpicture.com/q/str4.jpg" height="80%" width="80%" alt="Home"/>
 <img src="https://www.linkpicture.com/q/str5.jpg" height="80%" width="80%" alt="Home"/>
