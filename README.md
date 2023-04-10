@@ -13,7 +13,7 @@ Structura is a single-page HTML5 website. This website is appropriate for websit
 <h2>Website walk-through:</h2>
 
 <b>You can try the Demo of this website here:</b> 
-  - [Structura - Landing Page](https://structuralandingpage.netlify.app)
+  - [Structura - Landing Page](https://multipurpose-site.netlify.app/)
 
 <hr>
 <p align="center">
